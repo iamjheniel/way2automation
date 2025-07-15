@@ -36,7 +36,8 @@ cd way2automation-tests
 ### 2. Install dependencies
 
 ```bash
-npm install
+npm init
+npm install cypress --save-dev
 ```
 
 ### 3. Run tests (with Cypress GUI)
@@ -129,7 +130,7 @@ project-root/
 
 **Jheniel Sala**  
 Software QA Engineer | Test Automation | Cypress | Selenium | API Testing  
-📫 Email: jhenielsala@email.com  
+📫 Email: jhenielsala@gmail.com  
 🌐 LinkedIn: [https://www.linkedin.com/in/jhenielsala/]
 
 ---
