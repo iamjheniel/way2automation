@@ -29,7 +29,7 @@ This project automates key user flows on [Way2Automation](https://www.way2automa
 ### 1. Clone the repo
 
 ```bash
-git clone https://bitbucket.org/your-username/way2automation-tests.git
+git clone https://github.com/iamjheniel/way2automation.git
 cd way2automation-tests
 ```
 
